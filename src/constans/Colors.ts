@@ -1,0 +1,20 @@
+export default  {
+    About: '#40b7ad',
+    Notes: '#ffd829',
+    Twitters: '#8ad8f4',
+    Articles: '#8cce78',
+    grey100: 'hsl(0, 0%, 96%)',
+    gray200: '#e6e6e6',
+    gray300: 'hsl(0, 0%, 54%)',
+    black: 'hsl(0, 0%, 0%)',
+    light: 400,
+    bold: 600,
+    fontSize: {
+        xxs: '1rem',
+        xs: '1.2rem',
+        s: '1.6rem',
+        m: '2.1rem',
+        l: '2.4rem',
+        xl: '4rem',
+      },
+}
