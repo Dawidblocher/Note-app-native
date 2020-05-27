@@ -6,10 +6,14 @@
 - **assets** (img, fonts etc.)
 - **components** (only re useable part of code)
 - **constans** (only const variable)
-- **entities** (typing for typescript)
 - **reducers** (all reducers for redux)
 - **screens** (all apps screens (pages))
-    - **[FOLDER]** (all you need to single screen)
+    - **[AboutMe]** (all you need to single screen AboutMe)
+    - **[AddPage]** (all you need to single screen AddPage)
+    - **[Articles]** (all you need to single screen Articles)
+    - **[Notes]** (all you need to single screen Notes)
+    - **[Post]** (all you need to single screen Post)
+    - **[Twitters]** (all you need to single screen Twitters)
 - **tools** (reuseable tools)
 
 ## **Usage**
