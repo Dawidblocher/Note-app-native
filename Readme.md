@@ -15,7 +15,7 @@
     - **[Post]** (all you need to single screen Post)
     - **[Twitters]** (all you need to single screen Twitters)
 - **tools** (reuseable tools)
-
+- **templates** (global view)
 ## **Usage**
 
 1. Download and install expo app on your phone
